@@ -8,4 +8,5 @@ public class WeaponData : ScriptableObject
     public float bulletSpeed;
     public float fireCooldown;
     public int clipSize;
+
 }
